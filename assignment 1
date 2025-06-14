@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jashwanth Annavarapu Portfolio</title>
+    <link rel="icon" href="ion.webp" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+</head>
+<body>
+    <header>
+        <h1 class="box">Jashwanth Annavarapu</h1>
+        <p class="tagline">Aspiring Software Developer | Problem Solver | Tech Enthusiast</p>
+    </header>
+
+    <section>
+        <h2 class="box1">About Me</h2>
+        <p>I have a strong foundation in software development, algorithms, and data structures. I'm passionate about solving complex problems and building innovative tech solutions that make a real impact.</p>
+        <img src="portfolio.jpg" alt="Jashwanth image" height="100" width="100">
+    </section>
+
+    <section>
+        <h2 class="box1">Education</h2>
+        <table>
+            <tr><th>Sl.no</th><th>Qualification</th><th>Institution</th><th>Percentage</th><th>Year</th></tr>
+            <tr><td>1</td><td>B.Tech</td><td>VIGNAN University</td><td>98%</td><td>2023 – 2027</td></tr>
+            <tr><td>2</td><td>Intermediate</td><td>Narayana Junior College</td><td>97.9%</td><td>2023</td></tr>
+            <tr><td>3</td><td>SSC</td><td>Oxford High School</td><td>98.5%</td><td>2021</td></tr>
+        </table>
+    </section>
+
+    <section>
+        <h2>Projects</h2>
+        <h3>Online Travel Booking System (JavaScript, Mar 2025)</h3>
+        <ul>
+            <li>Smart Travel Assistant with Customised Travel Plans</li>
+            <li>AI-Driven Pricing Recommendations</li>
+            <li>Real-Time Chat Bots & Predictive Research</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Achievements & Certifications</h2>
+        <ul>
+            <li>E-Business (NPTEL)</li>
+            <li>Vulnerability Management in Qualys</li>
+            <li>Data Analytics & Visualization – Accenture</li>
+            <li>Java Programming – Infosys Springboard</li>
+            <li>DSA – Infosys Springboard</li>
+            <li>Cambridge A2 PET Merit Certificate</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Key Skills</h2>
+        <h3>Technical:</h3>
+        <ol>
+            <li>C, Python, Java</li>
+            <li>HTML, CSS, JavaScript</li>
+            <li>VS Code, GitHub, Angular, SQL, Linux</li>
+        </ol>
+        <h3>Soft Skills:</h3>
+        <ul>
+            <li>Leadership, Teamwork, Public Speaking</li>
+        </ul>
+        <h3>Hobbies:</h3>
+        <ul>
+            <li>Western Dance</li>
+            <li>Listening to Music</li>
+            <li>Reading Books</li>
+            <li>Travelling to Holy Places</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Contact Me</h2>
+        <form>
+            <label>Name:</label>
+            <input type="text" placeholder="Enter your full name"><br>
+            <label>Password:</label>
+            <input type="password" placeholder="Enter your password"><br>
+            <label>Phone:</label>
+            <input type="number" placeholder="Enter your phone number"><br>
+            <label>Email:</label>
+            <input type="email" placeholder="Enter your email"><br>
+            <label>Any Queries:</label>
+            <input type="text" placeholder="Enter your query"><br>
+            <input type="submit">
+        </form>
+    </section>
+
+    <footer>
+        <h2>Connect With Me</h2>
+        <a href="https://www.linkedin.com/in/jashwanth-annavarapu-01218632a" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
+        <a href="https://leetcode.com/u/jashwanthannavarapu99/" target="_blank"><i class="fa-solid fa-code"></i></a>
+        <a href="https://www.codechef.com/users/jashwanthanna" target="_blank"><i class="fa-solid fa-circle-user"></i></a>
+    </footer>
+</body>
+</html>
